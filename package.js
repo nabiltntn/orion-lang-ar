@@ -1,6 +1,6 @@
 Package.describe({
   name: 'tunifight:orion-lang-ar',
-  version: '1.3.0',
+  version: '1.3.1',
   summary: 'Orion arabic language',
   git: 'https://github.com/nabiltntn/orion-lang-ar.git',
   documentation: 'README.md'
