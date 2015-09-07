@@ -1,4 +1,4 @@
-i18n.map('[ar]', {
+i18n.map('ar', {
   global: {
     save: 'حفظ',
     create: 'أحدث',
